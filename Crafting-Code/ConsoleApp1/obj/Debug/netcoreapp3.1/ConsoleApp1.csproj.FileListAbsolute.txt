@@ -1,0 +1,13 @@
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Dev\Dean\Crafting-Code\Crafting-Code\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

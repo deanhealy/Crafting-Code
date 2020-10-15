@@ -1,0 +1,9 @@
+C:\Dev\Dean\Crafting-Code\Crafting-Code\CraftingCode\bin\Debug\netstandard2.0\CraftingCode.deps.json
+C:\Dev\Dean\Crafting-Code\Crafting-Code\CraftingCode\bin\Debug\netstandard2.0\CraftingCode.dll
+C:\Dev\Dean\Crafting-Code\Crafting-Code\CraftingCode\bin\Debug\netstandard2.0\CraftingCode.pdb
+C:\Dev\Dean\Crafting-Code\Crafting-Code\CraftingCode\obj\Debug\netstandard2.0\CraftingCode.csprojAssemblyReference.cache
+C:\Dev\Dean\Crafting-Code\Crafting-Code\CraftingCode\obj\Debug\netstandard2.0\CraftingCode.AssemblyInfoInputs.cache
+C:\Dev\Dean\Crafting-Code\Crafting-Code\CraftingCode\obj\Debug\netstandard2.0\CraftingCode.AssemblyInfo.cs
+C:\Dev\Dean\Crafting-Code\Crafting-Code\CraftingCode\obj\Debug\netstandard2.0\CraftingCode.csproj.CoreCompileInputs.cache
+C:\Dev\Dean\Crafting-Code\Crafting-Code\CraftingCode\obj\Debug\netstandard2.0\CraftingCode.dll
+C:\Dev\Dean\Crafting-Code\Crafting-Code\CraftingCode\obj\Debug\netstandard2.0\CraftingCode.pdb

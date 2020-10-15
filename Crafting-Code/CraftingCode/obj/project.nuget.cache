@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yt4SLeeTQohOto4wH1O5vHx1y2vW69dMO3Tpo85mG5R891/Ta42TvrQidDrhdA35P1awVSn74TGUR02J2bsdow==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Dean\\Crafting-Code\\Crafting-Code\\CraftingCode\\CraftingCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
