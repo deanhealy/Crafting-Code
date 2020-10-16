@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A0BFC0DD-6F70-47D3-9105-81DC337103EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A0BFC0DD-6F70-47D3-9105-81DC337103EE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B9601226-5D45-428D-BE31-FA08D26B3CD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "Test1\UnitTests.csproj", "{736CC9A0-DE2E-4102-B6CA-73535CBDE4D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "Test1\UnitTests.csproj", "{736CC9A0-DE2E-4102-B6CA-73535CBDE4D9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C395340F-C24D-4F9E-A2FF-490A559E81DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraftingCode", "CraftingCode\CraftingCode.csproj", "{8F71BF85-E6E5-4A08-8D86-0336E3BE70F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CraftingCode", "CraftingCode\CraftingCode.csproj", "{8F71BF85-E6E5-4A08-8D86-0336E3BE70F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcceptanceTests", "AcceptanceTests\AcceptanceTests.csproj", "{7B257FBD-4A5C-4801-842F-3FDEE473478D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{8F71BF85-E6E5-4A08-8D86-0336E3BE70F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F71BF85-E6E5-4A08-8D86-0336E3BE70F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F71BF85-E6E5-4A08-8D86-0336E3BE70F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B257FBD-4A5C-4801-842F-3FDEE473478D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B257FBD-4A5C-4801-842F-3FDEE473478D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B257FBD-4A5C-4801-842F-3FDEE473478D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B257FBD-4A5C-4801-842F-3FDEE473478D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{736CC9A0-DE2E-4102-B6CA-73535CBDE4D9} = {B9601226-5D45-428D-BE31-FA08D26B3CD7}
 		{8F71BF85-E6E5-4A08-8D86-0336E3BE70F2} = {C395340F-C24D-4F9E-A2FF-490A559E81DB}
+		{7B257FBD-4A5C-4801-842F-3FDEE473478D} = {B9601226-5D45-428D-BE31-FA08D26B3CD7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {81308790-3146-4E09-9D74-F6E501F98E11}
